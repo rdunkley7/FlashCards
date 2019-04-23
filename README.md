@@ -1,2 +1,3 @@
 # FlashCards-2.0-2
-Following apple instructions finally..
+Flash card iOS application that allows user to quiz themselves in a variety of subjects. 
+Implements voice feedback and language encoding.
